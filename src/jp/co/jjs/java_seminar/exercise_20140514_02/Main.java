@@ -6,8 +6,14 @@ public class Main {
         Student name1 = new Student("yokoyama");
         Student name2 = new Student("naoto");
         
+        name1.answerinc();
+        name1.answerinc();
+        name2.report();
+        
         System.out.println(name1.name);
         System.out.println(name2.name);
+        System.out.println(name1.answercount);
+        System.out.println(name1.report());
         
     }
 
