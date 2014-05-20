@@ -1,4 +1,4 @@
-package jp.co.jjs.java_seminar.exercise_20140515_05;
+package jp.co.jjs.java_seminar.exercise_20140516_01;
 
 import java.util.ArrayList;
 
